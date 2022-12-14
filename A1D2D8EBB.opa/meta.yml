@@ -1,0 +1,22 @@
+id: A1D2D8EBB
+title: Toh_247-Distinguishing_Phenomena_and_What_Is_Meaningful-v1
+type: translation
+pechas:
+- IAC343C3E
+- I7FA82D33
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-08-21T02:40:26.791Z'
+  creationid: CM
+  eft-text-id: UT22084-066-005
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_247-Distinguishing_Phenomena_and_What_Is_Meaningful-v1
+alignment_to_base:
+  IAC343C3E/4676: C10B
+  I7FA82D33/005F: C10B
